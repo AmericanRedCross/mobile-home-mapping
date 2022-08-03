@@ -1,0 +1,308 @@
+{
+  "1": {
+    "instructions": {
+      "title": "Tap once to mark squares with mobile homes green. Try that here.",
+      "icon": "tap-1",
+      "description": "Look for the group of long rectangular buildings. You can tap this text box to move it out of the way."
+    },
+    "hint": {
+      "title": "We've marked the correct squares green.",
+      "icon": "swipe-left",
+      "description": "Swipe to learn some more."
+    },
+    "success": {
+      "title": "You found your first areas with mobile homes!",
+      "icon": "check",
+      "description": "Swipe to the next screen to look for more."
+    }
+  },
+  "2": {
+    "instructions": {
+      "title": "If you are not sure, you can tap twice to mark the square yellow. Try that on this screen.",
+      "icon": "tap-2",
+      "description": "Look at the orientation of buildings - mobile homes may be at a diagonal."
+    },
+    "hint": {
+      "title": "This is how the tiles should look.",
+      "icon": "swipe-left",
+      "description": "Swipe to try another again on a new screen."
+    },
+    "success": {
+      "title": "Great. Twice for yellow to indicate if you're not sure.",
+      "icon": "check",
+      "description": "Swipe to learn more."
+    }
+  },
+  "3": {
+    "instructions": {
+      "title": "Let's keep practicing.",
+      "icon": "tap-1",
+      "description": "Mark squares even if they have a mix of mobile homes and other buildings."
+    },
+    "hint": {
+      "title": "Look at the diagonal of the buildings and the density.",
+      "icon": "swipe-left",
+      "description": "Here are the correct answers. Swipe to keep practicing."
+    },
+    "success": {
+      "title": "You're doing great!",
+      "icon": "check",
+      "description": "Swipe for more examples."
+    }
+  },
+  "4": {
+    "instructions": {
+      "title": "Sometimes the shape of mobile home buildings are the same as other houses.",
+      "icon": "tap-1",
+      "description": "Mobile homes are usually smaller, denser, and may have white roofs."
+    },
+    "hint": {
+      "title": "This one was more difficult.",
+      "icon": "swipe-left",
+      "description": "Here are the answers. Keep going!"
+    },
+    "success": {
+      "title": "Good work!",
+      "icon": "check",
+      "description": "You will be a pro in no time."
+    }
+  },
+  "5": {
+    "instructions": {
+      "title": "Sometimes shipping containers look like mobile homes.",
+      "icon": "tap-1",
+      "description": "Look at the surroundings for clues."
+    },
+    "hint": {
+      "title": "No mobile homes here. Containers may be near large warehouses or without space between them.",
+      "icon": "swipe-left",
+      "description": "If you're not sure you can tap twice to turn a square yellow."
+    },
+    "success": {
+      "title": "Correct! No mobile homes here. The large warehouses and no spaces between the rectangles are clues they are containers.",
+      "icon": "check",
+      "description": "If you're not sure you can tap twice to turn a square yellow."
+    }
+  },
+  "6": {
+    "instructions": {
+      "title": "Industrial sites can sometimes look like densely packed mobile homes.",
+      "icon": "tap-1",
+      "description": "Can you spot the differences here?"
+    },
+    "hint": {
+      "title": "This one was more difficult.",
+      "icon": "swipe-left",
+      "description": "Here are the correct answers. Keep learning!"
+    },
+    "success": {
+      "title": "You weren't fooled!",
+      "icon": "check",
+      "description": "Thanks for sticking with it, there is a lot to show you!"
+    }
+  },
+  "7": {
+    "instructions": {
+      "title": "Test your skills on this one.",
+      "icon": "tap-1",
+      "description": "Tap once to mark the squares with mobile homes green."
+    },
+    "hint": {
+      "title": "Just one square here. Did the shipping containers trick you?",
+      "icon": "swipe-left",
+      "description": "Don't worry, you'll get there!"
+    },
+    "success": {
+      "title": "Those shipping containers didn't fool you.",
+      "icon": "check",
+      "description": "Keep swiping!"
+    }
+  },
+  "8": {
+    "instructions": {
+      "title": "There are Recreational Vehicles (RVs) in this image.",
+      "icon": "tap-1",
+      "description": "But should you tap them?"
+    },
+    "hint": {
+      "title": "Oops! This is an RV store, not a mobile home park.",
+      "icon": "swipe-left",
+      "description": "No one is living in those, so we can swipe past this."
+    },
+    "success": {
+      "title": "This is an RV store, not a mobile home park.",
+      "icon": "check",
+      "description": "No one is living in those. We can keep swiping."
+    }
+  },
+  "9": {
+    "instructions": {
+      "title": "There are Recreational Vehicles (RVs) in this image!",
+      "icon": "tap-1",
+      "description": "Do we tap them this time?"
+    },
+    "hint": {
+      "title": "See the designated roads, as well as spacing to provide light and access?",
+      "icon": "swipe-left",
+      "description": "The top 2 squares are inhabited RVs in a mobile home park."
+    },
+    "success": {
+      "title": "Yes! The top 2 squares are inhabited RVs in a mobile home park.",
+      "icon": "check",
+      "description": "The designated roads, as well as spacing to provide light and access."
+    }
+  },
+  "10": {
+    "instructions": {
+      "title": "Sometimes the shape of mobile home buildings are the same as other houses.",
+      "icon": "tap-1",
+      "description": "Mobile homes are usually smaller, denser, and may have white roofs."
+    },
+    "hint": {
+      "title": "This one was more difficult.",
+      "icon": "swipe-left",
+      "description": "Here are the answers. Keep going!"
+    },
+    "success": {
+      "title": "Good work!",
+      "icon": "check",
+      "description": "You will be a pro in no time."
+    }
+  },
+  "11": {
+    "instructions": {
+      "title": "Also look for clusters of small mobile homes surrounded by other buildings.",
+      "icon": "tap-1",
+      "description": "Mobile homes are not always in large groups."
+    },
+    "hint": {
+      "title": "Just one square here. The correct answer is marked.",
+      "icon": "swipe-left",
+      "description": "Their size and proportions help them stand out."
+    },
+    "success": {
+      "title": "Good job!",
+      "icon": "check",
+      "description": "Their size and proportions help them stand out."
+    }
+  },
+  "12": {
+    "instructions": {
+      "title": "Mobile homes can be hidden among trees, and it may be difficult to recognize the shape, size, and orientation.",
+      "icon": "tap-1",
+      "description": "In this case, if you see a cluster of white spots, you may mark it as mobile homes."
+    },
+    "hint": {
+      "title": "Compare what you thought with these correct answers.",
+      "icon": "swipe-left",
+      "description": "The trees make it more difficult."
+    },
+    "success": {
+      "title": "You have sharp vision!",
+      "icon": "check",
+      "description": "Thanks for taking the time to learn!"
+    }
+  },
+  "13": {
+    "instructions": {
+      "title": "One more example with trees.",
+      "icon": "tap-1",
+      "description": "Can you spot the difference between the houses and the mobile homes?"
+    },
+    "hint": {
+      "title": "Review the correct answers.",
+      "icon": "swipe-left",
+      "description": "You can retake this tutorial at any time."
+    },
+    "success": {
+      "title": "You got it!",
+      "icon": "check",
+      "description": "Tree cover is no match for your identification skills!"
+    }
+  },
+  "14": {
+    "instructions": {
+      "title": "Vacant spots paved for RVs or mobile homes can indicate a mobile home park.",
+      "icon": "tap-1",
+      "description": "Can you see spot those here?"
+    },
+    "hint": {
+      "title": "Here are the answers.",
+      "icon": "swipe-left",
+      "description": "Keep going, you'll get it!"
+    },
+    "success": {
+      "title": "This was a new clue.",
+      "icon": "check",
+      "description": "You aced it!"
+    }
+  },
+  "15": {
+    "instructions": {
+      "title": "Just a few more!",
+      "icon": "tap-1",
+      "description": "Remember: look at shape, size, orientation, density, roof color."
+    },
+    "hint": {
+      "title": "Look at the diagonal of the buildings, their smaller size, and the density.",
+      "icon": "swipe-left",
+      "description": "Here are the correct answers. Keep practicing."
+    },
+    "success": {
+      "title": "You're doing great!",
+      "icon": "check",
+      "description": "Almost there."
+    }
+  },
+  "16": {
+    "instructions": {
+      "title": "Nearly there!",
+      "icon": "tap-1",
+      "description": "Remember: look at shape, size, orientation, density, roof color."
+    },
+    "hint": {
+      "title": "Not quite. Please review the correct answers.",
+      "icon": "swipe-left",
+      "description": "Roof color and the angled orientation help here."
+    },
+    "success": {
+      "title": "Exactly!",
+      "icon": "check",
+      "description": "Roof color and the angled orientation help here."
+    }
+  },
+  "17": {
+    "instructions": {
+      "title": "Second to last!",
+      "icon": "tap-1",
+      "description": "Remember: look at shape, size, orientation, density, roof color."
+    },
+    "hint": {
+      "title": "Sorry, that was a trick.",
+      "icon": "swipe-left",
+      "description": "No mobile homes here, keep swiping."
+    },
+    "success": {
+      "title": "There's no tricking you!",
+      "icon": "check",
+      "description": "You're right, no mobile homes here. Keep swiping."
+    }
+  },
+  "18": {
+    "instructions": {
+      "title": "Mark 2 green and 1 yellow in this final one.",
+      "icon": "tap-1",
+      "description": "Remember: look at shape, size, orientation, density, roof color."
+    },
+    "hint": {
+      "title": "Here are the correct answers.",
+      "icon": "swipe-left",
+      "description": "You can review this tutorial at any time."
+    },
+    "success": {
+      "title": "Yay! You made it to the end.",
+      "icon": "check",
+      "description": "You can review this tutorial at any time."
+    }
+  }
+}
