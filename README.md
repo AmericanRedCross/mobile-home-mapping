@@ -36,7 +36,7 @@ To transform your GeoJSON files into a different projection, `cd` into the direc
 ogr2ogr output.geojson -t_srs "EPSG:4326" -s_srs "EPSG:6405" input.geojson
 ```
 
-For a folder of files (you can change the "4326_" to a prefix of your choice for the transformed files):
+For a folder of files (you must change "EPSG:6405" to the current projection of the files, and you may change the "4326_" to a prefix of your choice for the transformed files):
 ```bash
 for file in *.geojson; do
   ogr2ogr 4326_"$file" -t_srs "EPSG:4326" -s_srs "EPSG:6405" "$file"
